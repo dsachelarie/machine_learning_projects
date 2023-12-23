@@ -6,7 +6,6 @@ Implementation of a linear regression model and comparison to SVM.
 """
 
 
-# Get accuracy and recall for a model's predictions.
 def get_accuracy_recall(pred, test):
     no_correct = 0
     true_positive = 0
